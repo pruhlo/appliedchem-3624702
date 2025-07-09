@@ -1,0 +1,14 @@
+Model,True Positives (TP),False Positives (FP),True Negatives (TN),False Negatives (FN),Accuracy,Precision,Recall,F1 Score,ROC AUC,balanced_acc,mcc
+Logistic Regression,2,0,188,0,1.0,1.0,1.0,1.0,1.0,1.0,1.0
+BernoulliNB,2,19,169,0,0.9,0.095,1.0,0.174,1.0,0.949,0.293
+Multinomial Naive Bayes,2,33,155,0,0.826,0.057,1.0,0.108,1.0,0.912,0.217
+Linear SVM,0,0,188,2,0.989,0.0,0.0,0.0,1.0,0.5,0.0
+k-NN,2,2,186,0,0.989,0.5,1.0,0.667,1.0,0.995,0.703
+Random Forest,2,0,188,0,1.0,1.0,1.0,1.0,1.0,1.0,1.0
+LDA,2,0,188,0,1.0,1.0,1.0,1.0,1.0,1.0,1.0
+SGD Classifier,0,0,188,2,0.989,0.0,0.0,0.0,1.0,0.5,0.0
+Lasso Regression,2,0,188,0,1.0,1.0,1.0,1.0,1.0,1.0,1.0
+Ridge Regression,0,0,188,2,0.989,0.0,0.0,0.0,1.0,0.5,0.0
+Elastic Net,2,0,188,0,1.0,1.0,1.0,1.0,1.0,1.0,1.0
+Decision Tree,2,0,188,0,1.0,1.0,1.0,1.0,1.0,1.0,1.0
+Gradient Boosting,2,0,188,0,1.0,1.0,1.0,1.0,1.0,1.0,1.0

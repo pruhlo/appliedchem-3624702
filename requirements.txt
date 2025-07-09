@@ -8,3 +8,4 @@ imblearn==0.0
 xgboost==2.1.4
 seaborn==0.13.2
 torch==2.7.0
+statsmodels==0.14.4

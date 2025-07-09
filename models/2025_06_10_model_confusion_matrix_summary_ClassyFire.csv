@@ -1,0 +1,14 @@
+,Model,Data Type,True Positives (TP),False Positives (FP),True Negatives (TN),False Negatives (FN)
+0,Logistic Regression,Test Data,7,7,599,2
+1,BernoulliNB,Test Data,6,36,570,3
+2,Multinomial Naive Bayes,Test Data,7,33,573,2
+3,Linear SVM,Test Data,7,1,605,2
+4,k-NN,Test Data,7,63,543,2
+5,Random Forest,Test Data,6,0,606,3
+6,LDA,Test Data,7,26,580,2
+7,SGD Classifier,Test Data,7,6,600,2
+8,Lasso Regression,Test Data,7,8,598,2
+9,Ridge Regression,Test Data,7,9,597,2
+10,Elastic Net,Test Data,7,6,600,2
+11,Decision Tree,Test Data,7,8,598,2
+12,Gradient Boosting,Test Data,5,2,604,4
