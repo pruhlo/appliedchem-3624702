@@ -1,6 +1,6 @@
 # appliedchem-3624702
 
-This repository accompanies the manuscript **"Modeling of New Agents with Potential Antidiabetic Activity Based on Machine Learning Algorithms"** published in *AppliedChem* (2025, 5(4), 30). It contains the datasets, Jupyter notebooks, and scripts used to build and evaluate machine learning models for identifying compounds with potential antidiabetic activity.
+This repository accompanies the manuscript [**"Modeling of New Agents with Potential Antidiabetic Activity Based on Machine Learning Algorithms"**](https://www.mdpi.com/2673-9623/5/4/30) published in *AppliedChem* (2025, 5(4), 30). It contains the datasets, Jupyter notebooks, and scripts used to build and evaluate machine learning models for identifying compounds with potential antidiabetic activity.
 
 ## About the Research
 
